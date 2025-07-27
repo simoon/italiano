@@ -2,7 +2,7 @@
   "name": "flashcard-arabo-italiano",
   "version": "1.0.0",
   "description": "App di flashcard multi-livello per insegnare l'italiano a studenti arabi",
-  "homepage": "https://tuonome.github.io/flashcard-arabo-italiano",
+  "homepage": "https://simoon.github.io/italiano",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
@@ -51,6 +51,6 @@
     "react",
     "insegnamento"
   ],
-  "author": "Il tuo nome",
+  "author": "Simone Biagiotti",
   "license": "MIT"
 }
